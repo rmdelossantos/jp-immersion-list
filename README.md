@@ -22,3 +22,4 @@ Welcome to my Japanese Immersion List – a curated collection of resources that
 | タロサックの海外生活ダイアリーTAROSAC | @tarosac1990 | https://www.youtube.com/@tarosac1990 | 外国人へのインタビュー動画や海外関連の役立つ情報を毎週発信しています！観るだけで頭の中がグローバル化出来るチャンネルです！ |
 | Kohei America | @1055memories | https://www.youtube.com/@1055memories | 福井県出身で2005年からロサンゼルスに住んでいるKoheiです！ こちらのチャンネルはアメリカの仕事/お給料、移住/ビザ、不動産を中心に役立つ情報を目指して配信しております。 現地の生の生活事情も含めて愛犬のピーナッツと一緒に分かりやすくお届ければと！ チャンネル登録やイイネで応援してくださると嬉しいです！！よろしくお願いします。  ★10年以上、日本語をほぼ話さない生活を送っていたため活舌が悪かったり単語がスラスラと出ないこともありますがお許しください。（最近マシには、なってきたと言われます）  お仕事の依頼はTwitterもしくはInstagramのDMよりお願いします。 |
 | ABEMA Prime #アベプラ【公式】 | @prime_ABEMA | https://www.youtube.com/@prime_ABEMA | キャッチコピーは｢みんなでしゃべるとニュースはおもしろい｣。これまでの常識や価値観が大きく変わる中、今の時代らしい新しいネット言論に挑戦します。 |
+| なるチャン | @NarumiShikiya | https://www.youtube.com/@NarumiShikiya | 17歳で留学し、大学院を卒業するまでアメリカで生活をしていたNARUMIがアメリカの文化やトレンドを皆さんにわかりやすくお伝えするチャンネルです。。 |
