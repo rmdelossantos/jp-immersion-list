@@ -2,10 +2,7 @@
 
 Welcome to my Japanese Immersion List – a curated collection of resources that accompany my language learning journey. Embarking on the path of mastering Japanese, I've gathered an assortment of books, manga, anime, and more, to aid in my immersion experience.!
 
-
-## Books
-
-<div style="overflow-x: auto;"><table>
+<h2>Books</h2><div style="overflow-x: auto;"><table>
     <thead>
         <tr>
             <th>Name</th>
@@ -21,10 +18,7 @@ Welcome to my Japanese Immersion List – a curated collection of resources that
         </tr>
     </tbody>
 </table>
-</div>
-## Podcasts
-
-<div style="overflow-x: auto;"><table>
+</div><h2>Podcasts</h2><div style="overflow-x: auto;"><table>
     <thead>
         <tr>
             <th>Name</th>
@@ -40,10 +34,7 @@ Welcome to my Japanese Immersion List – a curated collection of resources that
         </tr>
     </tbody>
 </table>
-</div>
-## Videos
-
-<div style="overflow-x: auto;"><table>
+</div><h2>Videos</h2><div style="overflow-x: auto;"><table>
     <thead>
         <tr>
             <th>Name</th>
@@ -204,10 +195,7 @@ Welcome to my Japanese Immersion List – a curated collection of resources that
         </tr>
     </tbody>
 </table>
-</div>
-## Anime
-
-<div style="overflow-x: auto;"><table>
+</div><h2>Anime</h2><div style="overflow-x: auto;"><table>
     <thead>
         <tr>
             <th>Name</th>

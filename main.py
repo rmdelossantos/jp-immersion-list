@@ -17,8 +17,8 @@ def read_json_file(category):
         return []
 
 def generate_table(category, category_data):
-    table = f"\n## {category.capitalize()}\n\n"
-    table += '<div style="overflow-x: auto;">'  # Add container div for horizontal scrolling
+    table = f"<h2>{category.capitalize()}</h2>"
+    table += '<div style="overflow-x: auto;">'
     table += "<table>\n"
     table += "    <thead>\n"
     table += "        <tr>\n"
@@ -38,7 +38,7 @@ def generate_table(category, category_data):
 
     table += "    </tbody>\n"
     table += "</table>\n"
-    table += '</div>'  # Close container div
+    table += '</div>'
     return table
 
 
