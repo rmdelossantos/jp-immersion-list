@@ -193,6 +193,27 @@ Welcome to my Japanese Immersion List – a curated collection of resources that
             <td><a href="https://www.youtube.com/c/motocook__">@motocook__</a></td>
             <td>■自己紹介 6人家族 賃貸3LDK暮らし アラサー夫婦と0歳1歳、6歳と7歳のダブル年子の子育て中。 SNS総フォロワー30万超え 時短！作業時間平均15分 誰でも知ってる身近な食材・調味料で 料理初心者さんでもすぐ作れる簡単レシピをご紹介！ 4児の母かつ料理研究家の ごくごく普通の暮らしを発信していきます！ ■ 掲載 1冊目書籍 出して焼くだけ！冷凍保存de朝ごパン https://amzn.asia/d/1SRlfZM 2冊目書籍 家族のおかわりが止まらない！ がっつりおかずとがっつり丼 https://amzn.asia/d/1M21ivQ ■その他SNS Instagram  https://www.instagram.com/ig.o.styk/ レシピサイトNadia（レシピ詳細はこちら） https://oceans-nadia.com/user/615888 楽天ROOM（愛用品） https://room.rakuten.co.jp/room_ccb68eb3f6/items</td>
         </tr>
+        <tr>
+            <td>Ayane。</td>
+            <td><a href="https://www.youtube.com/c/chattyamy">@chattyamy</a></td>
+            <td>🎨土曜18時更新🪄
+独学で英語を学び同時に愛を学んだ人が
+あなたの英語学習、人生を
+意識と(発)音でサポート❤️‍🩹✨
+
+based in Japan
+21歳 INFJ×INFPだよん！
+
+instagram: __chattyamy
+
+My mission：
+World with love & peace + stillness that every individual radiate from within.🙏🏻
+本気で世界平和を目指しています。
+これは、世界平和の為に私が出来ること。
+Inner peace ↔️ External peace
+少しでも多くの方の
+【内なる調和】を手に入れるお手伝い。</td>
+        </tr>
     </tbody>
 </table>
 </div><h2>Anime</h2><div style="overflow-x: auto;"><table>
