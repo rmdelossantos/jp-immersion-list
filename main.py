@@ -18,12 +18,27 @@ def read_json_file(category):
 
 def generate_table(category, category_data):
     table = f"\n## {category.capitalize()}\n\n"
-    table += "| Name | Author / Studio | Link | Description |\n"
-    table += "|------|------------------|------|-------------|\n"
+    table += '<div style="overflow-x: auto;">'  # Add container div for horizontal scrolling
+    table += "<table>\n"
+    table += "    <thead>\n"
+    table += "        <tr>\n"
+    table += "            <th>Name</th>\n"
+    table += "            <th>Author / Studio</th>\n"
+    table += "            <th>Description</th>\n"
+    table += "        </tr>\n"
+    table += "    </thead>\n"
+    table += "    <tbody>\n"
 
     for item in category_data:
-        table += f"| {item['name']} | {item['author']} | {item['link']} | {item['description']} |\n"
+        table += f"        <tr>\n"
+        table += f"            <td>{item['name']}</td>\n"
+        table += f"            <td><a href=\"{item['link']}\">{item['author']}</a></td>\n"
+        table += f"            <td>{item['description']}</td>\n"
+        table += "        </tr>\n"
 
+    table += "    </tbody>\n"
+    table += "</table>\n"
+    table += '</div>'  # Close container div
     return table
 
 
