@@ -42,120 +42,13 @@ Welcome to my Japanese Immersion List – a curated collection of resources that
 | ダヴィンチアカデミー_欲望の漫画 | @daviaca | https://www.youtube.com/c/daviaca | ダヴィンチアカデミーへようこそ。 貴方の知的好奇心を刺激する様々なオリジナル漫画を配信しています！ 刺激が強すぎてハイになり過ぎないように用法・用量をお守りください。 毎日18:30前後に動画公開！ |
 | NAKATA UNIVERSITY | @NKTofficial | https://www.youtube.com/@NKTofficial/videos |  |
 | ドグマの漫画アカデミー【金曜日18時更新】 | @doguma | https://www.youtube.com/c/doguma | この世の"分かりにくい"をぶっこわしていくチャンネルです👮 再生リストの「全てシリーズ」がこのチャンネルの全てです。全ての価値をこのリストに詰め込んでます。 【チャンネルの軌跡】 2021.06チャンネルスタート 2021.08 日本史 2021.11 世界史（西洋史） 2022.05自民党 2022.07アメリカ史 2022.10 中国史 2023.02心理学（嫌われる勇気）（非公開） 2023.04中東史（イスラーム） 2023.09資本論 2024.01戦後日本史👈今ここ‼️ |
-| UCCコーヒーアカデミー | @ucc6096 | https://www.youtube.com/c/ucc6096 | カップから農園までUCCのコーヒーに関する知見が凝縮されたコーヒー専門チャンネル「UCC コーヒーアカデミー」です。このチャンネルでは思わず誰かに紹介したくなるようなコーヒーに関する豆知識や自宅で使える楽即テクニックなど
-コーヒーにまつわるアレコレをご紹介していきます！
-
-是非チャンネル登録宜しくお願いします！
-https://www.youtube.com/channel/UCGRsibrrMiwNbt7gQ_kEJsQ?sub_confirmation=1
-
-▼UCC上島珈琲ホームページ
-http://www.ucc.co.jp/
-
-▼UCCコーヒーアカデミーホームページ
-https://www.ucc.co.jp/academy/
-
-▼UCCコーヒーアカデミー Facebookページ
-https://www.facebook.com/UccCoffeeAcademy
-
-▼UCCコーヒーアカデミー Instagramアカウント
-https://www.instagram.com/ucc_coffee_academy/ |
-| 川野優馬のコーヒーチャンネル | @YumaKawano | https://www.youtube.com/c/YumaKawano | コーヒーの魅力を伝えます。LIGHT UP COFFEEの代表。
-
-東京でコーヒー専門店LIGHT UP COFFEEをやってます。生豆でシングルオリジンコーヒーを世界中から仕入れて焙煎していて、最近はバリ島やベトナムでコーヒーの栽培や精製もやってます。
-
-Twitter: @yuma_lightup
-Instagram: @yuma_lightup
-
-コーヒー豆はLIGHT UP COFFEEのオンラインストアより全国に販売しています。
-https://lightupcoffee.com/ |
-| 備長炭フルシティロースト | @fullcity | https://www.youtube.com/c/fullcity | 「コーヒーが近くにある生活」をポップに提案するハイパースマートエナジーチャンネル
-
-【西田備長炭】
-コーヒー好き、キャンプする、原付乗る
-
-自分で店を構えてるわけでもなく、焙煎師的な者でもありません。ただのコーヒー愛好家です。いつか自分でお店出せたらいいと、愛好家のみんなが漠然と思うようなことを私も思っているところです。
-
-ゴリゴリのエンドユーザー目線でのコーヒーアイテムの紹介や、アウトドアで飲むコーヒーのウマさみたいなことを発信していきます。
-
-よろしくお願いいたします
-
-●Instagram
-https://www.instagram.com/binchotan_nishida/
-@binchotan_nishida
-
-●Ｘ
-https://twitter.com/n_binchotan |
-| REIYA's Coffee Channel | @reiyascoffeechannel2893 | https://www.youtube.com/c/reiyascoffeechannel2893 | It is "REIYA" of REIYA's Coffee Channel.
-The channel was opened with the intention of "I want you to know the fun of coffee!"
-I hope you enjoy this coffee and enjoy it through this channel.
-Come and enjoy coffee with me! |
-| りんのおうちごはん | @rin_ouchi_gohan | https://www.youtube.com/c/rin_ouchi_gohan | 一人暮らし26歳OLの節約おうちごはんを記録しています🍳
-
-手取り18万で豊かな生活を送るため、日々節約しながら暮らしています。
-ぜひ皆さん仲良くしてください☺️
-
-チャンネル登録してくれたら嬉しいです😭🙇‍♂️
-コメントもたくさんお待ちしてます🏡
-
-ファンレター・プレゼントの送り先はこちら
-〒150-0001
-東京都渋谷区神宮前6-12-20 J6 Frontビル 6F
-株式会社Carry On
-「りんのおうちごはん」宛
-※ 冷蔵・冷凍が必要な、なま物の受付はできません。
-
-お仕事のお問い合わせはこちら
-https://carry0n.co.jp/contact/corporation/ |
-| 食堂あさごはん | @user-bb2tp3fi3k | https://www.youtube.com/c/user-bb2tp3fi3k | こんにちは(^^)
-ご覧いただきありがとうございます。
-
-食堂あさごはんでは、私が普段作っている朝ごはんを投稿しています。
-
-プロフィール
-
-中井エリカ
-１９８９年生まれ。
-大学卒業後、管理栄養士免許を取得。
-社員食堂で献立を立てたりする仕事をしていました。
-
-好きな食べ物はお寿司。苦手な食べ物は辛いもの。
-
-著書「野菜がおいしすぎる作り置き」発売中です！ |
-| 6人家族食堂 | @motocook__ | https://www.youtube.com/c/motocook__ | ■自己紹介
-
-6人家族 賃貸3LDK暮らし
-アラサー夫婦と0歳1歳、6歳と7歳のダブル年子の子育て中。
-
-SNS総フォロワー30万超え
-
-時短！作業時間平均15分
-誰でも知ってる身近な食材・調味料で
-料理初心者さんでもすぐ作れる簡単レシピをご紹介！
-
-4児の母かつ料理研究家の
-ごくごく普通の暮らしを発信していきます！
-
-■ 掲載
-
-1冊目書籍
-出して焼くだけ！冷凍保存de朝ごパン
-https://amzn.asia/d/1SRlfZM
-
-2冊目書籍
-家族のおかわりが止まらない！
-がっつりおかずとがっつり丼
-https://amzn.asia/d/1M21ivQ
-
-■その他SNS
-
-Instagram 
-https://www.instagram.com/ig.o.styk/
-
-レシピサイトNadia（レシピ詳細はこちら）
-https://oceans-nadia.com/user/615888
-
-楽天ROOM（愛用品）
-https://room.rakuten.co.jp/room_ccb68eb3f6/items |
+| UCCコーヒーアカデミー | @ucc6096 | https://www.youtube.com/c/ucc6096 | カップから農園までUCCのコーヒーに関する知見が凝縮されたコーヒー専門チャンネル「UCC コーヒーアカデミー」です。このチャンネルでは思わず誰かに紹介したくなるようなコーヒーに関する豆知識や自宅で使える楽即テクニックなど コーヒーにまつわるアレコレをご紹介していきます！ 是非チャンネル登録宜しくお願いします！ https://www.youtube.com/channel/UCGRsibrrMiwNbt7gQ_kEJsQ?sub_confirmation=1 ▼UCC上島珈琲ホームページ http://www.ucc.co.jp/ ▼UCCコーヒーアカデミーホームページ https://www.ucc.co.jp/academy/ ▼UCCコーヒーアカデミー Facebookページ https://www.facebook.com/UccCoffeeAcademy ▼UCCコーヒーアカデミー Instagramアカウント https://www.instagram.com/ucc_coffee_academy/ |
+| 川野優馬のコーヒーチャンネル | @YumaKawano | https://www.youtube.com/c/YumaKawano | コーヒーの魅力を伝えます。LIGHT UP COFFEEの代表。 東京でコーヒー専門店LIGHT UP COFFEEをやってます。生豆でシングルオリジンコーヒーを世界中から仕入れて焙煎していて、最近はバリ島やベトナムでコーヒーの栽培や精製もやってます。 Twitter: @yuma_lightup Instagram: @yuma_lightup コーヒー豆はLIGHT UP COFFEEのオンラインストアより全国に販売しています。 https://lightupcoffee.com/ |
+| 備長炭フルシティロースト | @fullcity | https://www.youtube.com/c/fullcity | 「コーヒーが近くにある生活」をポップに提案するハイパースマートエナジーチャンネル 【西田備長炭】 コーヒー好き、キャンプする、原付乗る 自分で店を構えてるわけでもなく、焙煎師的な者でもありません。ただのコーヒー愛好家です。いつか自分でお店出せたらいいと、愛好家のみんなが漠然と思うようなことを私も思っているところです。 ゴリゴリのエンドユーザー目線でのコーヒーアイテムの紹介や、アウトドアで飲むコーヒーのウマさみたいなことを発信していきます。 よろしくお願いいたします ●Instagram https://www.instagram.com/binchotan_nishida/ @binchotan_nishida ●Ｘ https://twitter.com/n_binchotan |
+| REIYA's Coffee Channel | @reiyascoffeechannel2893 | https://www.youtube.com/c/reiyascoffeechannel2893 | It is "REIYA" of REIYA's Coffee Channel. The channel was opened with the intention of "I want you to know the fun of coffee!" I hope you enjoy this coffee and enjoy it through this channel. Come and enjoy coffee with me! |
+| りんのおうちごはん | @rin_ouchi_gohan | https://www.youtube.com/c/rin_ouchi_gohan | 一人暮らし26歳OLの節約おうちごはんを記録しています🍳 手取り18万で豊かな生活を送るため、日々節約しながら暮らしています。 ぜひ皆さん仲良くしてください☺️ チャンネル登録してくれたら嬉しいです😭🙇‍♂️ コメントもたくさんお待ちしてます🏡 ファンレター・プレゼントの送り先はこちら 〒150-0001 東京都渋谷区神宮前6-12-20 J6 Frontビル 6F 株式会社Carry On 「りんのおうちごはん」宛 ※ 冷蔵・冷凍が必要な、なま物の受付はできません。 お仕事のお問い合わせはこちら https://carry0n.co.jp/contact/corporation/ |
+| 食堂あさごはん | @user-bb2tp3fi3k | https://www.youtube.com/c/user-bb2tp3fi3k | こんにちは(^^) ご覧いただきありがとうございます。 食堂あさごはんでは、私が普段作っている朝ごはんを投稿しています。 プロフィール 中井エリカ １９８９年生まれ。 大学卒業後、管理栄養士免許を取得。 社員食堂で献立を立てたりする仕事をしていました。 好きな食べ物はお寿司。苦手な食べ物は辛いもの。 著書「野菜がおいしすぎる作り置き」発売中です！ |
+| 6人家族食堂 | @motocook__ | https://www.youtube.com/c/motocook__ | ■自己紹介 6人家族 賃貸3LDK暮らし アラサー夫婦と0歳1歳、6歳と7歳のダブル年子の子育て中。 SNS総フォロワー30万超え 時短！作業時間平均15分 誰でも知ってる身近な食材・調味料で 料理初心者さんでもすぐ作れる簡単レシピをご紹介！ 4児の母かつ料理研究家の ごくごく普通の暮らしを発信していきます！ ■ 掲載 1冊目書籍 出して焼くだけ！冷凍保存de朝ごパン https://amzn.asia/d/1SRlfZM 2冊目書籍 家族のおかわりが止まらない！ がっつりおかずとがっつり丼 https://amzn.asia/d/1M21ivQ ■その他SNS Instagram  https://www.instagram.com/ig.o.styk/ レシピサイトNadia（レシピ詳細はこちら） https://oceans-nadia.com/user/615888 楽天ROOM（愛用品） https://room.rakuten.co.jp/room_ccb68eb3f6/items |
 
 ## Anime
 
