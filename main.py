@@ -30,7 +30,7 @@ def generate_table(category, category_data):
     table += "    <tbody>\n"
 
     for item in category_data:
-        table += f"        <tr>\n"
+        table += "        <tr>\n"
         table += f"            <td>{item['name']}</td>\n"
         table += f"            <td><a href=\"{item['link']}\">{item['author']}</a></td>\n"
         table += f"            <td>{item['description']}</td>\n"
