@@ -214,6 +214,11 @@ Inner peace ↔️ External peace
 少しでも多くの方の
 【内なる調和】を手に入れるお手伝い。</td>
         </tr>
+        <tr>
+            <td>Haru no Nihongo</td>
+            <td><a href="https://www.youtube.com/@harunonihongo">@harunonihongo</a></td>
+            <td>This channel is for Japanese learner🇯🇵・Japanese Podcast with subtitle・Travel Vlog with subtitle etc. よろしくおねがいします😆</td>
+        </tr>
     </tbody>
 </table>
 </div><h2>Anime</h2><div style="overflow-x: auto;"><table>
